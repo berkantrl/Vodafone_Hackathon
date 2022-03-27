@@ -2,7 +2,7 @@
 sistemimiz simcard kayıp çalıntı durumlarında oluşacak kimlik sahtekarlığını önlemek için  yüz doğrulama ile bunun önüne geçmeyi hedeflemiştir.
 aşağıdaki resimde gördüğünüz gibi sistem kayıtlı olmaayan kişiyi tespit ettiğinde hata ile karşılaşıp false değer döndüren sayfaya yönledirme yapıyor
 
-![](foto1.png)
+![](foto0.png)
 
 
 ![](foto2.png)
