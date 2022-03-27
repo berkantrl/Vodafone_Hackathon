@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Hubballi&family=IBM+Plex+Sans+Condensed:wght@100&display=swap%22");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(214, 221, 185);
+  font-family: "Hubballi", cursive;
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+}
+
+h1 {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 4rem;
+  letter-spacing: 15px;
+  opacity: .6;
+  color: rgb(212, 7, 7);
+}
+
+p{
+    color: black;
+    font-weight: bold;
+    font-size: 4rem;
+    margin-top: 50px;
+    text-align: center;
+}
